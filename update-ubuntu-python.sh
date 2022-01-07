@@ -5,7 +5,8 @@
 # Author: Evan Ottinger  @OttySec
 # 
 # Description: A script to update Python3 to the latest
-# version on Ubuntu.
+# version on Ubuntu. Based off of blog by Rehan Haider:
+# https://cloudbytes.dev/snippets/upgrade-python-to-latest-version-on-ubuntu-linux
 #
 # Not guaranteed, use at your own risk, yadayada.
 
